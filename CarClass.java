@@ -8,8 +8,6 @@ class Car {
     String model;
     int year;
 
-   
-
     void displayInfo() {
         System.out.println("===Car Information===");
         System.out.println("Brand: " + brand);
